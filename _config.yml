@@ -21,7 +21,7 @@
 title: "Teste1" # Altere para o título desejado
 email: ferpercomm2030@outlook.com # Use seu e-mail
 description: "Um site de testes com Jekyll." # Altere para uma descrição adequada
-baseurl: "" # O subcaminho do seu site, ex: /blog
+baseurl: "/teste1" # O subcaminho do seu site, ex: /blog
 url: "https://ferpercomm2030.github.io/teste1" # URL do seu site
 twitter_username: ferpercomm2030 # Seu usuário do Twitter (se tiver)
 github_username: ferpercomm2030 # Seu usuário do GitHub
